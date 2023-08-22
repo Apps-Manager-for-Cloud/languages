@@ -35,3 +35,7 @@ Thumbs.db
 # Cache and temporary files
 .cache
 .temp
+
+# Tests
+tmp
+coverage
